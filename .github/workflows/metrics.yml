@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        user: sushiswap
+        user: dustdao
         filename: profile/metrics.svg
         token: ${{ secrets.GITHUB_TOKEN }}
         base: header, activity, community, repositories, metadata
