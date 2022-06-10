@@ -9,6 +9,6 @@
   
 <br />
 
-![Metrics](/profile/metrics.svg)
+![Metrics](https://metrics.lecoq.io/dustdao?template=classic&base.indepth=false&base.hireable=false&config.timezone=America%2FNew_York)
 
 </span>
